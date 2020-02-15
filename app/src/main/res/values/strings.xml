@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FlashCardPlus</string>
+
+
+    <string name="jump_title">jump</string>
+    <string name="jump_content">・She is very angry.\n・We must always be careful</string>
+    <string name="jump_mean">飛ぶ</string>
+
+    <string name="president_title">president</string>
+    <string name="president_content">・He is very elite person</string>
+    <string name="president_mean">社長</string>
+
+    <string name="shortcut_title">shortcut</string>
+    <string name="shortcut_content">・It is very convenient</string>
+    <string name="shortcut_mean">ショートカット</string>
+dimens.xml
+    <string name="gaeshi_title">turnover</string>
+    <string name="gaeshi_content">・Turn over cyabudai</string>
+    <string name="gaeshi_mean">ちゃぶ台返し</string>
+
+    <string name="cinderella_title">cinderella</string>
+    <string name="cinderella_content">・Pumpkin carriage \n・Glass shoes</string>
+    <string name="cinderella_mean">シンデレラ</string>
+
+
+
+
+
+
+</resources>
